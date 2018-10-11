@@ -166,9 +166,11 @@
 
                         <asp:Button ID="Button1" runat="server" Text="ADD" Height="33px" Width="63px" OnClick="Button1_Click"/></td>
 
-                    <td class="auto-style5" style="font-size:large;color:green"><asp:Label ID="Label1" runat="server" ></asp:Label>
+                    <td class="auto-style5">
+                     <%--   <label id="Response2" style="color:darkgreen; font-size:larger"></label>--%>
+                        <asp:Label ID="response2" runat="server" ForeColor="#003300" Font-Size="Larger"></asp:Label>
 
-                        <asp:Label ID="Label2" runat="server" ForeColor="#ff0000"></asp:Label>
+                        <asp:Label ID="Label2" runat="server" ForeColor="#ff0000" Font-Size="Larger"></asp:Label>
 
                     </td>
 

@@ -113,6 +113,22 @@ namespace SharepointWebsite
 
             ClientContextCredentials.isClX.ExecuteQuery();
 
+            response2.Text = "Added Successfully";
+
+            //System.Threading.Thread.Sleep(5000);
+
+            //ScriptManager.RegisterStartupScript(this, typeof(Page), "script", "setTimeout(function(){window.location.href='SiteContents.aspx',5000);", true);
+            ScriptManager.RegisterStartupScript(this, this.GetType(),
+
+               "alert",
+
+               "alert('" + response2.Text + "');window.location ='SiteContents.aspx' ",
+
+               true);
+
+
+            // Response.Redirect("~/SiteContents.aspx");
+
             //string Addfiled = "<Field Type= " + Type + "/>"+ "<DisplayName= " + Name + "/>"+ "<Description= " + Description+"/>";
 
 
@@ -135,11 +151,7 @@ namespace SharepointWebsite
 
 
 
-            Label1.Text = "Added Successfully";
 
-
-
-            Response.Redirect("SiteContents.aspx");
 
 
 
