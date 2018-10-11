@@ -1,0 +1,24 @@
+D:\My Tasks\SharepointWebsite\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\My Tasks\SharepointWebsite\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\DAL.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\DAL.pdb
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\obj\Debug\DAL.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\DAL\obj\Debug\DAL.pdb

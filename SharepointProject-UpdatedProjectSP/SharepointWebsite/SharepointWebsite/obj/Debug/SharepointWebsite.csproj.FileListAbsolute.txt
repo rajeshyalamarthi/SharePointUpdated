@@ -1,0 +1,233 @@
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\SharepointWebsite.dll.config
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\SharepointWebsite.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\SharepointWebsite.pdb
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\csc.exe
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\csc.exe.config
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\csc.rsp
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\csi.exe
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\csi.exe.config
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\csi.rsp
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.AppContext.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Console.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.Compression.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.FileSystem.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.Pipes.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.AccessControl.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Claims.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.ValueTuple.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Xml.XPath.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\vbc.exe
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\vbc.exe.config
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\vbc.rsp
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\VBCSCompiler.exe
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Antlr3.Runtime.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\AspNet.ScriptManager.jQuery.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\EntityFramework.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\EntityFramework.SqlServer.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Google.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Newtonsoft.Json.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Owin.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\System.Web.Optimization.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\System.Web.Providers.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\WebGrease.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\System.Web.Optimization.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Newtonsoft.Json.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Antlr3.Runtime.pdb
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\EntityFramework.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\EntityFramework.SqlServer.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\System.Web.Providers.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Google.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Tasks\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.csprojAssemblyReference.cache
+D:\My Tasks\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.csproj.CoreCompileInputs.cache
+D:\My Tasks\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.csproj.CopyComplete
+D:\My Tasks\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.pdb
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Office.Client.Policy.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Office.Client.TranslationServices.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Office.SharePoint.Tools.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.ProjectServer.Client.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Publishing.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Search.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\My Tasks\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\SharepointWebsite.dll.config
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\SharepointWebsite.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\SharepointWebsite.pdb
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\csc.exe
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\csc.exe.config
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\csc.rsp
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\csi.exe
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\csi.exe.config
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\csi.rsp
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.AppContext.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Console.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.Compression.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.FileSystem.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.IO.Pipes.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.AccessControl.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Claims.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.ValueTuple.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Xml.XPath.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\vbc.exe
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\vbc.exe.config
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\vbc.rsp
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\VBCSCompiler.exe
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Antlr3.Runtime.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\AspNet.ScriptManager.jQuery.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\EntityFramework.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\EntityFramework.SqlServer.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Office.Client.Policy.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Office.Client.TranslationServices.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Office.SharePoint.Tools.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Google.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.ProjectServer.Client.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Publishing.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Search.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Newtonsoft.Json.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Owin.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\System.Web.Optimization.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\System.Web.Providers.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\WebGrease.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\System.Web.Optimization.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Newtonsoft.Json.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Antlr3.Runtime.pdb
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\EntityFramework.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\EntityFramework.SqlServer.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\System.Web.Providers.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Google.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.csproj.CoreCompileInputs.cache
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.csproj.CopyComplete
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.dll
+D:\SharepointProject-UpdatedProjectSP\SharepointWebsite\SharepointWebsite\obj\Debug\SharepointWebsite.pdb

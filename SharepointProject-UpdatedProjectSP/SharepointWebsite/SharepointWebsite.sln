@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharepointWebsite", "SharepointWebsite\SharepointWebsite.csproj", "{FDCD51E7-C659-4F05-BE0C-15D9EC246168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{87D3E439-23D2-40DB-9994-339510491E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCD51E7-C659-4F05-BE0C-15D9EC246168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCD51E7-C659-4F05-BE0C-15D9EC246168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCD51E7-C659-4F05-BE0C-15D9EC246168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCD51E7-C659-4F05-BE0C-15D9EC246168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D3E439-23D2-40DB-9994-339510491E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D3E439-23D2-40DB-9994-339510491E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D3E439-23D2-40DB-9994-339510491E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D3E439-23D2-40DB-9994-339510491E06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5055D96B-BB4E-4F80-ADB5-A40B1797E933}
+	EndGlobalSection
+EndGlobal
